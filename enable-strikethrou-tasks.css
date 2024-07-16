@@ -1,0 +1,4 @@
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"] {
+    text-decoration: line-through #3d3d3d;
+    color: var(--checklist-done-color);
+}
